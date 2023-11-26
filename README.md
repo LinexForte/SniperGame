@@ -1,1 +1,1 @@
-# SniperSVO
+# SniperGame
